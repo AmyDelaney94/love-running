@@ -190,7 +190,6 @@ hr {
 }
 
 /* event times */
-
 #times {
     background: url('../images/dublin-city.webp');
     background-repeat: no-repeat;
@@ -214,4 +213,26 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: #3a3a3a;
 }
